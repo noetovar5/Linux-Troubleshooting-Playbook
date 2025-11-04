@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.Linux-Troubleshooting-Playbook"/>
 My Real-World Linux Troubleshooting Playbook
 
-<p align="LInk to view on browser">
+<p align="center">
   <a href="https://www.linkedin.com/pulse/website-down-my-real-world-linux-troubleshooting-noe-noe-tovar-mba-ualhc">
     
   </a>
