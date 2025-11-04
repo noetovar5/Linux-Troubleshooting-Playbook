@@ -1,4 +1,4 @@
-# Linux-Troubleshooting-Playbook
+<p align="center"># Linux-Troubleshooting-Playbook
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.Linux-Troubleshooting-Playbook"/>
 <p align="center"> My Real-World Linux Troubleshooting Playbook
 
