@@ -2,8 +2,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.Linux-Troubleshooting-Playbook"/>
 My Real-World Linux Troubleshooting Playbook
 
-
+LInk to view on browser
 https://www.linkedin.com/pulse/website-down-my-real-world-linux-troubleshooting-noe-noe-tovar-mba-ualhc
+
+
 Tip: Todays lecture is one you will want to save.
 By Noe Tovar — Linux/DevOps Sysadmin
 
