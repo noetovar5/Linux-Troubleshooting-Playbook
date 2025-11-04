@@ -4,7 +4,7 @@ My Real-World Linux Troubleshooting Playbook
 
 <p align="center">
   <a href="https://www.linkedin.com/pulse/website-down-my-real-world-linux-troubleshooting-noe-noe-tovar-mba-ualhc">
-    
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
